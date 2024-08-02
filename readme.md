@@ -18,6 +18,6 @@ TensorFlow 2.5
 OpenCV
 Other required dependencies can be installed using the requirements.txt file
 
-#datasets:
+#datasets:https://drive.google.com/file/d/1Ju6JHFLLCTeH-vjS-_09MDSwn0yVKghc/view?usp=sharing
 
-#demo:
+#demo:https://drive.google.com/file/d/1KxnQDtRhkFlsuNofQvFDyyXOD2vj5Ds_/view?usp=sharing
